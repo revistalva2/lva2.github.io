@@ -1,0 +1,25 @@
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+
+    {% if site.data.settings.mailchimp %}
+    {% include subscribe.html %}
+    {% else %} {% endif %}
+
+    {% if site.data.settings.instagram %}
+    {% include instagram.html %}
+    {% else %} {% endif %}
+
+    {% include contact-link.html %}
+
+    <div class="copyright">
+      Edita Grupo de Telegram 
+      <a href="https://t.me/Retos_Matematicos">Retos Matemáticos</a>, Cubas de la Sagra, Madrid, {{ site.time | date: "%Y" }}. 
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img src="{{ site.baseurl }}/images/licencia.svg" width="5%" height="5%">
+      </a>
+    </div>
+
+  </div>
+</footer>
+<!-- end footer -->
