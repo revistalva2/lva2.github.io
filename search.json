@@ -1,0 +1,14 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | array_to_sentence_string }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date": "{{ post.date | date: "%-d %b, %Y" | replace: "Jan", "ene" | replace: "Feb", "feb" | replace: "Mar", "mar" | replace: "Apr", "abr" | replace: "May", "may" | replace: "Jun", "jun" | replace: "Jul", "jul" | replace: "Aug", "ago" | replace: "Sep", "sep" | replace: "Oct", "oct" | replace: "Nov", "nov" | replace: "Dec", "dic" }}"      
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
