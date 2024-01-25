@@ -1,0 +1,50 @@
+---
+layout: post
+title:  Volumen I, Número 1
+date:   2024-01-01 03:05:55 +0300
+image:  logo_I.jpg
+---
+
+# Volumen I, Número 1 - Enero 2024
+<!---
+Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesantes como la matemática clásica india o los polimonios de Chebyshev. En esta edición profundizaremos sobre los números complejos desde su historia hasta el producto infinito de números complejos. Traemos de la mano de Sandra M. Fernández un interesante artículo de investigación. Finalizaremos con una breve introducción a los fractales y, por supuesto, incluimos unos retos matemáticos que esperamos sean de su agrado.
+-->
+### Créditos
+
+* [Portada, Créditos, Índice y Editorial](https://drive.google.com/file/d/1O1QJqTWaAIf4SvPEjgRkIFR3GaeOgT_Y){:target="_blank"}
+
+### Artículos
+
+* ["Los logros de la matemática clásica india"](https://drive.google.com/file/d/14Og4sQWaA2kIHVQoVv3ghh2ND62BBArP){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org)
+* ["Marshall y la refundación matemática de la economía"](https://drive.google.com/file/d/1_BEZ7HAJ8Gf-OAjh8HlQlEwvpyItpsDK){:target="_blank"} - [Roman Ceano](mailto:romanceanovivas@gmail.com)
+* ["Logaritmos: análisis histórico, propiedades y aplicaciones"](https://drive.google.com/file/d/1-J-8jigu0s9hoRJPkXToxNOlUNlS9zFO){:target="_blank"} - [Pedro Sempere Valdés](mailto:p.semperevaldes@edu.gva.es)
+* ["Una breve historia de los números complejos"](https://drive.google.com/file/d/1z0980M3-fqc1dTDIIAcRkdXP4tCgGkGw){:target="_blank"} - [Iván Sánchez Pereira](mailto:mailto:ivan.sanchez.pereira@edu.xunta.gal)
+* ["Más complejos que los números complejos"](https://drive.google.com/file/d/1moUsEI2Tms7RIlHW-NbtXXtFtsC5GWLH){:target="_blank"} - [Pedro Daniel Pajares Galeano](mailto:pdpajaresg01@educarex.es)
+* ["Sobre un producto infinito de números complejos"](https://drive.google.com/file/d/1FhRaivA2vS8EZnogo9kZrBP6CNCsJ1RK){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) y [Pedro Vitoria García](mailto:pvitoria@gmail.com)
+* ["Homografías de cevianas"](https://drive.google.com/file/d/1Hh5dZ9iyT8fdXzl4b9IBgKNEZ_VxPx3C){:target="_blank"} - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com)
+* ["Triángulos heptagonales, coordenadas baricéntricas y polinomios de Chebyshev"](https://drive.google.com/file/d/183Cd8KARrzkcFY_qOhyeShaXmOhnlRus){:target="_blank"} - [Miguel Ángel Pérez García-Ortega](mailto:miangpgo@gmail.com)
+
+### Investigación
+
+* ["Sesgos en el razonamiento probabilístico y efectos en el proceso enseñanza-aprendizaje"](https://drive.google.com/file/d/15DdMdgBgxXXSpeE5qHzqpexNLxSEGXP_){:target="_blank"} - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com)
+
+### Recursos pedagógicos
+
+* ["Creación de actividades autoevaluables con Geogebra"](https://drive.google.com/file/d/1ZPuA75hvw4AJpRdg6Mpa-3Z4FEUk9EMc){:target="_blank"} - [Javier Cayetano Rodríguez](mailto:javiercayetano@educarex.es) 
+* ["Bilingüismo. Una utopía en la enseñanza de las matemáticas"](https://drive.google.com/file/d/12ZWqlUHcPo_kFRBfWshLNkHzHw8ImYxy){:target="_blank"} - [Natalia Corbacho Hidalgo](mailto:nataliachmatematicas@gmail.com)
+
+### Miscelánea
+
+* ["Una breve introducción a los fractales"](https://drive.google.com/file/d/13qZt0BjS7EqJCURuHRXAe8dKCj79Kh1B){:target="_blank"} - [María Merino Doncel](mailto:mjmerinod@educa.jcyl.es)
+
+### [Problemas](https://drive.google.com/file/d/1wM82AqfNxjRfd_8meLacAt7tWs5L59hT){:target="_blank"}
+
+***
+
+En caso de que no pueda ver la revista, puede descargarla [aquí](https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz)
+
+<!--<embed src="{{ site.baseurl }}/assets/rev_lva2_borrador.pdf" height="300" 
+ type="application/pdf">-->
+
+<embed src="https://drive.google.com/file/d/1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz/preview" height="300" 
+ type="application/pdf">
