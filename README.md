@@ -1,1 +1,1 @@
-Laboratorio de pruebas de la revista de Matemáticas Lva<sup>2</sup>
+Web de la revista de divulgación  matemática "Lva<sup>2</sup>"
