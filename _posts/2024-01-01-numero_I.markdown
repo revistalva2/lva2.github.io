@@ -5,7 +5,7 @@ date:   2024-01-01 03:05:55 +0300
 image:  logo_I.jpg
 ---
 
-# Volumen I, Número 1 - Enero 2024
+# Volumen I, Número 1 - Febrero 2024
 <!---
 Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesantes como la matemática clásica india o los polimonios de Chebyshev. En esta edición profundizaremos sobre los números complejos desde su historia hasta el producto infinito de números complejos. Traemos de la mano de Sandra M. Fernández un interesante artículo de investigación. Finalizaremos con una breve introducción a los fractales y, por supuesto, incluimos unos retos matemáticos que esperamos sean de su agrado.
 -->
@@ -26,7 +26,7 @@ Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesan
 
 ### Investigación
 
-* ["Sesgos en el razonamiento probabilístico y efectos en el proceso enseñanza-aprendizaje"](https://drive.google.com/file/d/15DdMdgBgxXXSpeE5qHzqpexNLxSEGXP_){:target="_blank"} - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com)
+* ["Sesgos en el razonamiento probabilístico y efectos en el proceso de enseñanza-aprendizaje estadístico elemental"](https://drive.google.com/file/d/15DdMdgBgxXXSpeE5qHzqpexNLxSEGXP_){:target="_blank"} - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com)
 
 ### Recursos pedagógicos
 
