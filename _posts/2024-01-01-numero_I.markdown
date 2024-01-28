@@ -20,7 +20,7 @@ Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesan
 * ["Logaritmos: análisis histórico, propiedades y aplicaciones"](https://drive.google.com/file/d/1-J-8jigu0s9hoRJPkXToxNOlUNlS9zFO){:target="_blank"} - [Pedro Sempere Valdés](mailto:p.semperevaldes@edu.gva.es)
 * ["Una breve historia de los números complejos"](https://drive.google.com/file/d/1z0980M3-fqc1dTDIIAcRkdXP4tCgGkGw){:target="_blank"} - [Iván Sánchez Pereira](mailto:mailto:ivan.sanchez.pereira@edu.xunta.gal)
 * ["Más complejos que los números complejos"](https://drive.google.com/file/d/1moUsEI2Tms7RIlHW-NbtXXtFtsC5GWLH){:target="_blank"} - [Pedro Daniel Pajares Galeano](mailto:pdpajaresg01@educarex.es)
-* ["Sobre un producto infinito de números complejos"](https://drive.google.com/file/d/1FhRaivA2vS8EZnogo9kZrBP6CNCsJ1RK){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) y [Pedro Vitoria García](mailto:pvitoria@gmail.com)
+* ["Sobre un producto infinito de números complejos"](https://drive.google.com/file/d/1FhRaivA2vS8EZnogo9kZrBP6CNCsJ1RK){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) y [Pablo Vitoria García](mailto:pvitoria@gmail.com)
 * ["Homografías de cevianas"](https://drive.google.com/file/d/1Hh5dZ9iyT8fdXzl4b9IBgKNEZ_VxPx3C){:target="_blank"} - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com)
 * ["Triángulos heptagonales, coordenadas baricéntricas y polinomios de Chebyshev"](https://drive.google.com/file/d/183Cd8KARrzkcFY_qOhyeShaXmOhnlRus){:target="_blank"} - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com)
 
