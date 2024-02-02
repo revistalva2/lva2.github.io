@@ -8,7 +8,7 @@ Todos aquellos interesados en publicar en la revista "Lva<sup>2</sup>" deberán 
 
 ## Normas generales
 
-1. Los trabajos a publicar se enviarán a través del correo corporativo de la revista [revistalva2@gmail.com](mailto:revistalva2@gmail.com){:target="_blank"}. Dichos trabajos deben ser originales y no estar en proceso de publicación en ninguna otra revista. Se enviarán los originales en formato editable (forzosamente *.tex) junto con las imágenes incluidas en el artículo.
+1. Los trabajos a publicar se enviarán a través del correo corporativo de la revista [revistalva2@gmail.com](mailto:revistalva2@gmail.com). Dichos trabajos deben ser originales y no estar en proceso de publicación en ninguna otra revista. Se enviarán los originales en formato editable (forzosamente *.tex) junto con las imágenes incluidas en el artículo.
 
 2. En principio, no existe limitación en la extensión de los trabajos, no obstante se recomienda no exceder de 25-30 páginas incluidas notas, tablas, gráficas, figuras y bibliografía. Con el fin de que los documentos sean indexados para la optimización en buscadores, los artículos (siempre que sea posible) llevarán un resumen de no más de 4-6 líneas y una serie de palabras clave, así como su [MSC2020](https://msc2020.org){:target="_blank"}.
 "Lva<sup>2</sup>" tiene una plantilla en LaTeX que puede descargarse en un archivo comprimido [aquí](https://drive.google.com/file/d/16yJ5cu1Wjj44Z4TCRYDmDnOQdFj-33Qp){:target="_blank"}. Es indispensable que el artículo presentado posea tanto un *Resumen* y *Palabras clave* en castellano, como un *Abstract* y *Keywords* en inglés, tal y como presenta la plantilla.
@@ -40,7 +40,7 @@ Para la revisión de plagio y otras formas de detección de textos similares, la
 
 ## Condiciones de Publicación
 
-Una vez aceptado el artículo para su publicación en Lva<sup>2</sup>, debe enviarse una carta de autoría, presentación, declaración de conflictos de intereses y cesión de derechos de propiedad intelectual a [revistalva2@gmail.com](mailto:revistalva2@gmail.com){:target="_blank"}, siguiendo el [modelo proporcionado](https://drive.google.com/file/d/1bGgWkLOx9oPvXKiKPnYLohxWFJnd0LT0){:target="_blank"}. El autor deberá aceptar las <b>[Políticas de Ética Editorial, Declaración Editorial de Malas Prácticas y Detección de Plagio](https://drive.google.com/file/d/1u4V5SaWtzAgurMpaIzd91Q4sF4cHcY10){:target="_blank"}</b> de nuestra publicación.
+Una vez aceptado el artículo para su publicación en Lva<sup>2</sup>, debe enviarse una carta de autoría, presentación, declaración de conflictos de intereses y cesión de derechos de propiedad intelectual a [revistalva2@gmail.com](mailto:revistalva2@gmail.com), siguiendo el [modelo proporcionado](https://drive.google.com/file/d/1bGgWkLOx9oPvXKiKPnYLohxWFJnd0LT0){:target="_blank"}. El autor deberá aceptar las <b>[Políticas de Ética Editorial, Declaración Editorial de Malas Prácticas y Detección de Plagio](https://drive.google.com/file/d/1u4V5SaWtzAgurMpaIzd91Q4sF4cHcY10){:target="_blank"}</b> de nuestra publicación.
 
 Los artículos publicados podrán ser descargados e impresos para uso personal, permitiendose su reproducción parcial o total tanto en formato impreso como digital para fines educativos, de investigación o para uso personal siempre y cuando sea sin fines de lucro ni comerciales.
 
