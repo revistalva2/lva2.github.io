@@ -28,11 +28,11 @@ permalink: /ficha_bibliografica/
 # Comité Técnico
 
 - [Enrique Brito Álvaro](mailto:enrique@brito.es) (Profesor de secundaria, Madrid)
-- [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
-- [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Departamento de Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance)
+- [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
 - [Pablo Antonio García Pastor](mailto:iraze.pgp@gmail.com) (Universidad de Málaga)
+- [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Departamento de Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (CEA Mar Menor, Torre-Pacheco, Murcia)
 - [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
 - [Manuel Muñoz Blázquez](mailto:mmunozb04@educarex.es) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
