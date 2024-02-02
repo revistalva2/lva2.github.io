@@ -16,7 +16,9 @@ permalink: /ficha_bibliografica/
 
 * **ISSN-e:** 3020-4925
 
-* **URL:** [www.lva2.es](www.lva2.es)
+* **URL:** [www.lva2.es](www.lva2.es){:target="_blank"}
+  
+* **Correo:** [revistalva2@gmail.com](mailto:revistalva2@gmail.com)
 
 # Directores
 
