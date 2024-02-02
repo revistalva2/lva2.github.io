@@ -22,7 +22,7 @@ permalink: /ficha_bibliografica/
 
 # Directores
 
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Madrid)
+- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 
 # Comité Técnico
