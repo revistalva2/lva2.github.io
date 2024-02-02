@@ -16,7 +16,7 @@ permalink: /ficha_bibliografica/
 
 * **ISSN-e:** 3020-4925
 
-* **URL:** [https://n9.cl/revista_lva2](https://n9.cl/revista_lva2)
+* **URL:** [www.lva2.es](www.lva2.es)
 
 # Directores
 
