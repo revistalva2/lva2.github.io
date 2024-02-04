@@ -16,7 +16,7 @@ Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesan
 ### Artículos
 
 * ["Los logros de la matemática clásica india"](https://drive.google.com/file/d/14Og4sQWaA2kIHVQoVv3ghh2ND62BBArP){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org)
-* ["Marshall y la refundación matemática de la economía"](https://drive.google.com/file/d/1_BEZ7HAJ8Gf-OAjh8HlQlEwvpyItpsDK){:target="_blank"} - [Roman Ceano](mailto:romanceanovivas@gmail.com)
+* ["Marshall y la refundación matemática de la economía"](https://drive.google.com/file/d/1_BEZ7HAJ8Gf-OAjh8HlQlEwvpyItpsDK){:target="_blank"} - [Román Ceano](mailto:romanceanovivas@gmail.com)
 * ["Logaritmos: análisis histórico, propiedades y aplicaciones"](https://drive.google.com/file/d/1-J-8jigu0s9hoRJPkXToxNOlUNlS9zFO){:target="_blank"} - [Pedro Sempere Valdés](mailto:p.semperevaldes@edu.gva.es)
 * ["Una breve historia de los números complejos"](https://drive.google.com/file/d/1z0980M3-fqc1dTDIIAcRkdXP4tCgGkGw){:target="_blank"} - [Iván Sánchez Pereira](mailto:mailto:ivan.sanchez.pereira@edu.xunta.gal)
 * ["Más complejos que los números complejos"](https://drive.google.com/file/d/1moUsEI2Tms7RIlHW-NbtXXtFtsC5GWLH){:target="_blank"} - [Pedro Daniel Pajares Galeano](mailto:pdpajaresg01@educarex.es)
