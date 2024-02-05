@@ -9,7 +9,6 @@
         <input class="subscribe__email required email" id="email" type="text" name="email"
           placeholder="Introduce tu email...">
       </div>
-      <div id="error-message" class="error-message"></div>
       <input class="subscribe__button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Suscribirse" disabled>
     </form>
   </div>
@@ -19,7 +18,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   var emailInput = document.getElementById('email');
   var subscribeButton = document.getElementById('mc-embedded-subscribe');
-  var errorMessage = document.getElementById('error-message');
 
   function isValidEmail(email) {
     // Expresión regular para validar el formato de email
@@ -30,16 +28,6 @@ document.addEventListener('DOMContentLoaded', function() {
   emailInput.addEventListener('input', function() {
     var isValid = isValidEmail(emailInput.value.trim());
     subscribeButton.disabled = !isValid;
-  });
-
-  subscribeButton.addEventListener('mouseover', function() {
-    var isValid = isValidEmail(emailInput.value.trim());
-
-    if (!isValid) {
-      errorMessage.textContent = "Introduzca un formato de email correcto";
-    } else {
-      errorMessage.textContent = "";
-    }
   });
 });
 </script>
