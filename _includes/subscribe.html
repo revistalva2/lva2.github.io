@@ -1,15 +1,33 @@
 <div class="container">
   <div class="subscribe">
-    <h3 class="subscribe__title">Subscribe</h3>
-    <p class="subscribe__subtitle">Stay up to date! Get all the latest & greatest posts delivered straight to your inbox.</p>
+    <h3 class="subscribe__title">Suscríbete</h3>
+    <p class="subscribe__subtitle">Suscríbete a la revista y te avisaremos por email cuando haya un nuevo número.</p>
     <form class="subscribe-form validate" action="{% if site.data.settings.mailchimp %}//{{site.data.settings.mailchimp}}{% else %}#{% endif %}"
       method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
       <div class="subscribe-group">
         <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-        <input class="subscribe__email required email" id="mce-EMAIL" type="text" name="EMAIL"
-          placeholder="Enter your email...">
+        <input class="subscribe__email required email" id="email" type="text" name="email"
+          placeholder="Introduce tu email...">
       </div>
-      <input class="subscribe__button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Subscribe">
+      <input class="subscribe__button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Suscribirse" disabled>
     </form>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var emailInput = document.getElementById('email');
+  var subscribeButton = document.getElementById('mc-embedded-subscribe');
+
+  function isValidEmail(email) {
+    // Expresión regular para validar el formato de email
+    var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  }
+
+  emailInput.addEventListener('input', function() {
+    var isValid = isValidEmail(emailInput.value.trim());
+    subscribeButton.disabled = !isValid;
+  });
+});
+</script>
