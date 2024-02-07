@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Feb 2024 00:42:39 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:42:39 +0100</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Volumen I, Número 1</title>
+        <description>&lt;h1 id=&quot;volumen-i-número-1---febrero-2024&quot;&gt;Volumen I, Número 1 - Febrero 2024&lt;/h1&gt;
+&lt;!---
+Primer número de la revista Lva&lt;sup&gt;2&lt;/sup&gt; donde abordamos temas tan interesantes como la matemática clásica india o los polimonios de Chebyshev. En esta edición profundizaremos sobre los números complejos desde su historia hasta el producto infinito de números complejos. Traemos de la mano de Sandra M. Fernández un interesante artículo de investigación. Finalizaremos con una breve introducción a los fractales y, por supuesto, incluimos unos retos matemáticos que esperamos sean de su agrado.
+--&gt;
+&lt;h3 id=&quot;créditos&quot;&gt;Créditos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1O1QJqTWaAIf4SvPEjgRkIFR3GaeOgT_Y&quot; target=&quot;_blank&quot;&gt;Portada, Créditos, Índice y Editorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;artículos&quot;&gt;Artículos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/14Og4sQWaA2kIHVQoVv3ghh2ND62BBArP&quot; target=&quot;_blank&quot;&gt;“Los logros de la matemática clásica india”&lt;/a&gt; - &lt;a href=&quot;mailto:jose.sm@educa.madrid.org&quot;&gt;José Manuel Sánchez Muñoz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1_BEZ7HAJ8Gf-OAjh8HlQlEwvpyItpsDK&quot; target=&quot;_blank&quot;&gt;“Marshall y la refundación matemática de la economía”&lt;/a&gt; - &lt;a href=&quot;mailto:romanceanovivas@gmail.com&quot;&gt;Román Ceano&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1-J-8jigu0s9hoRJPkXToxNOlUNlS9zFO&quot; target=&quot;_blank&quot;&gt;“Logaritmos: análisis histórico, propiedades y aplicaciones”&lt;/a&gt; - &lt;a href=&quot;mailto:p.semperevaldes@edu.gva.es&quot;&gt;Pedro Sempere Valdés&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1z0980M3-fqc1dTDIIAcRkdXP4tCgGkGw&quot; target=&quot;_blank&quot;&gt;“Una breve historia de los números complejos”&lt;/a&gt; - &lt;a href=&quot;mailto:mailto:ivan.sanchez.pereira@edu.xunta.gal&quot;&gt;Iván Sánchez Pereira&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1moUsEI2Tms7RIlHW-NbtXXtFtsC5GWLH&quot; target=&quot;_blank&quot;&gt;“Más complejos que los números complejos”&lt;/a&gt; - &lt;a href=&quot;mailto:pdpajaresg01@educarex.es&quot;&gt;Pedro Daniel Pajares Galeano&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1FhRaivA2vS8EZnogo9kZrBP6CNCsJ1RK&quot; target=&quot;_blank&quot;&gt;“Sobre un producto infinito de números complejos”&lt;/a&gt; - &lt;a href=&quot;mailto:jose.sm@educa.madrid.org&quot;&gt;José Manuel Sánchez Muñoz&lt;/a&gt; y &lt;a href=&quot;mailto:pvitoria@gmail.com&quot;&gt;Pablo Vitoria García&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Hh5dZ9iyT8fdXzl4b9IBgKNEZ_VxPx3C&quot; target=&quot;_blank&quot;&gt;“Homografías de cevianas”&lt;/a&gt; - &lt;a href=&quot;mailto:garciacapitan@gmail.com&quot;&gt;Francisco Javier García Capitán&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/183Cd8KARrzkcFY_qOhyeShaXmOhnlRus&quot; target=&quot;_blank&quot;&gt;“Triángulos heptagonales, coordenadas baricéntricas y polinomios de Chebyshev”&lt;/a&gt; - &lt;a href=&quot;mailto:mianpgo@gmail.com&quot;&gt;Miguel Ángel Pérez García-Ortega&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;investigación&quot;&gt;Investigación&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/15DdMdgBgxXXSpeE5qHzqpexNLxSEGXP_&quot; target=&quot;_blank&quot;&gt;“Sesgos en el razonamiento probabilístico y efectos en el proceso de enseñanza-aprendizaje estadístico elemental”&lt;/a&gt; - &lt;a href=&quot;mailto:sdrafez@gmail.com&quot;&gt;Sandra M. Fernández Rodríguez&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recursos-pedagógicos&quot;&gt;Recursos pedagógicos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1ZPuA75hvw4AJpRdg6Mpa-3Z4FEUk9EMc&quot; target=&quot;_blank&quot;&gt;“Creación de actividades autoevaluables con Geogebra”&lt;/a&gt; - &lt;a href=&quot;mailto:javiercayetano@educarex.es&quot;&gt;Javier Cayetano Rodríguez&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/12ZWqlUHcPo_kFRBfWshLNkHzHw8ImYxy&quot; target=&quot;_blank&quot;&gt;“Bilingüismo. Una utopía en la enseñanza de las matemáticas”&lt;/a&gt; - &lt;a href=&quot;mailto:nataliachmatematicas@gmail.com&quot;&gt;Natalia Corbacho Hidalgo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelánea&quot;&gt;Miscelánea&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/13qZt0BjS7EqJCURuHRXAe8dKCj79Kh1B&quot; target=&quot;_blank&quot;&gt;“Una breve introducción a los fractales”&lt;/a&gt; - &lt;a href=&quot;mailto:mjmerinod@educa.jcyl.es&quot;&gt;María Jesús Merino Doncel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;problemas&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1wM82AqfNxjRfd_8meLacAt7tWs5L59hT&quot; target=&quot;_blank&quot;&gt;Problemas&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;En caso de que no pueda ver la revista, puede descargarla &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--&lt;embed src=&quot;/assets/rev_lva2_borrador.pdf&quot; height=&quot;300&quot; 
+ type=&quot;application/pdf&quot;&gt;--&gt;
+
+&lt;embed src=&quot;https://drive.google.com/file/d/1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz/preview&quot; height=&quot;300&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+        <pubDate>Thu, 01 Feb 2024 01:05:55 +0100</pubDate>
+        <link>http://localhost:4000/2024/02/01/numero_I/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/01/numero_I/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
