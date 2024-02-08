@@ -41,7 +41,7 @@ Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesan
 
 ***
 
-En caso de que no pueda ver la revista, puede descargarla [aquí](https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz)
+En caso de que no pueda ver la revista, puede descargarla [aquí](https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz) (la descarga puede tardar en iniciarse, sea paciente)
 
 <!--<embed src="{{ site.baseurl }}/assets/rev_lva2_borrador.pdf" height="300" 
  type="application/pdf">-->
