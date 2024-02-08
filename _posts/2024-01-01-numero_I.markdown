@@ -41,10 +41,13 @@ Primer número de la revista Lva<sup>2</sup> donde abordamos temas tan interesan
 
 ***
 
-En caso de que no pueda ver la revista, puede descargarla [aquí](https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz) (la descarga puede tardar en iniciarse).
+Pulse en el siguiente enlace para descargar revista completa:
 
-<!--<embed src="{{ site.baseurl }}/assets/rev_lva2_borrador.pdf" height="300" 
- type="application/pdf">-->
-
-<embed src="https://drive.google.com/file/d/1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz/preview" height="300" 
- type="application/pdf">
+<div style="text-align: center;">
+    <a href="https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz">
+        <img src="/images/revista_febrero_24.png" alt="Revista completa febrero 2024" width="30%">
+    </a>
+    <p>
+        <a href="https://drive.google.com/uc?export=download&id=1WcXWejqKUX5g2-oeSPy6zCbrYVEUVAoz">Revista completa</a>
+    </p>
+</div>
