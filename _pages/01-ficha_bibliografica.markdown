@@ -25,11 +25,12 @@ permalink: /ficha_bibliografica/
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 
-# Comité Técnico
+# Comité Editorial
 
 - [Enrique Brito Álvaro](mailto:enrique@brito.es) (Profesor de secundaria, Madrid)
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance)
 - [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
+- [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 - [Pablo Antonio García Pastor](mailto:iraze.pgp@gmail.com) (Universidad de Málaga)
 - [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Departamento de Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
@@ -39,7 +40,7 @@ permalink: /ficha_bibliografica/
 - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
 - [José Antonio Prado Bassas](mailto:bassas@us.es) (Facultad de Matemáticas, Universidad de Sevilla)
 - [Marco Emilio Rodríguez Serrano](mailto:mrodrise@gmail.com) (Gerente de IT en ITnow, Barcelona)
+- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Pedro Sempere Valdés](mailto:pedrosemperevaldes@gmail.com) (I.E.S. Virgen del Remedio, Alicante)
 - [Víctor Daniel Vela Cuevas](mailto:victor.vela@krutt.org) (Ingeniero Mecánico, profesional freelance, México)
 - [Pablo Vitoria García](mailto:pvitoria@gmail.com) (C.E.U. Ikastek, Bilbao, Bizkaia)
-
