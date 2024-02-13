@@ -30,7 +30,7 @@ permalink: /ficha_bibliografica/
 - [Enrique Brito Álvaro](mailto:enrique@brito.es) (Profesor de secundaria, Madrid)
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance)
 - [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
-- [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com) (Psicóloga clínica freelance)
+- [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com) (Psicóloga clínica freelance, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 - [Pablo Antonio García Pastor](mailto:iraze.pgp@gmail.com) (Universidad de Málaga)
 - [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Departamento de Estadística e Investigación Operativa, Universidad de Sevilla)
