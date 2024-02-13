@@ -28,7 +28,7 @@ permalink: /ficha_bibliografica/
 # Comité Editorial
 
 - [Enrique Brito Álvaro](mailto:enrique@brito.es) (Profesor de secundaria, Madrid)
-- [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance)
+- [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance, Nava, Asturias)
 - [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
 - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com) (Psicóloga clínica freelance, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
