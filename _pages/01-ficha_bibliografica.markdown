@@ -35,7 +35,7 @@ permalink: /ficha_bibliografica/
 - [Pablo Antonio García Pastor](mailto:iraze.pgp@gmail.com) (Universidad de Málaga)
 - [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Departamento de Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
-- [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán)
+- [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán, Torrelodones, Madrid)
 - [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (CEA Mar Menor, Torre-Pacheco, Murcia)
 - [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
 - [Manuel Muñoz Blázquez](mailto:mmunozb04@educarex.es) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
