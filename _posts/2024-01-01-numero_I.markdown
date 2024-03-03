@@ -3,6 +3,7 @@ layout: post
 title:  Volumen I, Número 1
 date:   2024-02-01 03:05:55 +0300
 image:  logo_I.jpg
+permalink: /numero_1/
 ---
 
 # Volumen I, Número 1 - Febrero 2024
