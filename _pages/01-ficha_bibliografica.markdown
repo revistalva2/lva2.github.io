@@ -33,7 +33,7 @@ permalink: /ficha_bibliografica/
 - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com) (Psicóloga clínica freelance, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 - [Pablo Antonio García Pastor](mailto:iraze.pgp@gmail.com) (Universidad de Málaga)
-- [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Depto. Estadística e Investigación Operativa, Universidad de Sevilla)
+- [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Dpto. Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
 - [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán, Torrelodones, Madrid)
 - [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (CEA Mar Menor, Torre-Pacheco, Murcia)
