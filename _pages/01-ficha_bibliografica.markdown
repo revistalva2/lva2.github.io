@@ -38,7 +38,6 @@ permalink: /ficha_bibliografica/
 - [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán, Torrelodones, Madrid)
 - [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (CEA Mar Menor, Torre-Pacheco, Murcia)
 - [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
-- [Manuel Muñoz Blázquez](mailto:mmunozb04@educarex.es) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
 - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
 - [Marco Emilio Rodríguez Serrano](mailto:mrodrise@gmail.com) (Gerente de IT en ITnow, Barcelona)
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
