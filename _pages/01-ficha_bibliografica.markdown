@@ -43,5 +43,4 @@ permalink: /ficha_bibliografica/
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Lorena Segura Abad](mailto:lorena.segura@ua.es) (Dpto. Matemática Aplicada, Escuela Politécnica, Universidad de Alicante)
 - [Pedro Sempere Valdés](mailto:pedrosemperevaldes@gmail.com) (I.E.S. Virgen del Remedio, Alicante)
-- [Víctor Daniel Vela Cuevas](mailto:victor.vela@krutt.org) (Ingeniero Mecánico, profesional freelance, México)
 - [Pablo Vitoria García](mailto:pvitoria@gmail.com) (C.E.U. Ikastek, Bilbao, Bizkaia)
