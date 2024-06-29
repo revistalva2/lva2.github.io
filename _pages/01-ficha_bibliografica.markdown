@@ -25,7 +25,7 @@ permalink: /ficha_bibliografica/
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 
- ## Director Sección Problemas
+## Director Sección Problemas
 
  - [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (CEA Mar Menor, Torre-Pacheco, Murcia)
 
