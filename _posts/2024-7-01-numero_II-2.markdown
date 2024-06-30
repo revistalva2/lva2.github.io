@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Volumen I, Número 2
-date:   2024-06-28 03:05:55 +0300
+date:   2024-07-01 00:01:00 +0300
 image:  logo_II.jpg
 permalink: /numero_2/
 ---
