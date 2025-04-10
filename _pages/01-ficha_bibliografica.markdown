@@ -36,6 +36,7 @@ permalink: /ficha_bibliografica/
 ### Desarrollo y Comunicación
 
 - [Pedro Sempere Valdés](mailto:pedrosemperevaldes@gmail.com) (I.E.S. Virgen del Remedio, Alicante)
+- [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
 
 ### Captación y Relaciones Institucionales
 
