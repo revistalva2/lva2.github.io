@@ -35,7 +35,7 @@ permalink: /ficha_bibliografica/
 
 ### Desarrollo y Comunicación
 
-- [Pedro Sempere Valdés](mailto:psemper1@xtec.cat) (I.N.S. Joan Oro, Tarragona)
+- [Pedro Sempere Valdés](mailto:psemper1@xtec.cat) (Institut Joan Oró, Martorell, Barcelona)
 - [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
 
 ### Captación y Relaciones Institucionales
@@ -62,5 +62,5 @@ permalink: /ficha_bibliografica/
 - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Lorena Segura Abad](mailto:lorena.segura@ua.es) (Dpto. Matemática Aplicada, Escuela Politécnica, Universidad de Alicante)
-- [Pedro Sempere Valdés](mailto:psemper1@xtec.cat) (I.N.S. Joan Oro, Tarragona)
+- [Pedro Sempere Valdés](mailto:psemper1@xtec.cat) (Insttut Joan Oró, Martorell, Barcelona)
 - [Pablo Vitoria García](mailto:pvitoria@gmail.com) (C.E.U. Ikastek, Bilbao, Bizkaia)
