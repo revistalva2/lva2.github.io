@@ -25,9 +25,10 @@ permalink: /ficha_bibliografica/
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
 
-### Director Sección Problemas
+### Directores Sección Problemas
 
 - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
+- [Antonio Roberto Martínez Fernández](mailto:antonioroberto.martinez@um.es) (Dpto. de Estadística e Investigación Operativa, Universidad de Murcia)
 
 ### Editor de Estilo
 
@@ -57,7 +58,7 @@ permalink: /ficha_bibliografica/
 - [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Dpto. Estadística e Investigación Operativa, Universidad de Sevilla)
 - [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
 - [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán, Torrelodones, Madrid)
-- [Antonio Roberto Martínez Fernández](mailto:antoniorobert.martinez@murciaeduca.es) (I.E.S. Luis Manzanares, Torre-Pacheco, Murcia)
+- [Antonio Roberto Martínez Fernández](mailto:antonioroberto.martinez@um.es) (Dpto. de Estadística e Investigación Operativa, Universidad de Murcia)
 - [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
 - [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
 - [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
