@@ -1,0 +1,50 @@
+---
+layout: post
+title:  Volumen III, Número 1
+date:   2026-01-23 17:00:00 +0100
+image:  logo_IV.jpg
+permalink: /volIII_num1/
+---
+
+# Volumen III, Número 1 - Enero 2026
+
+### Créditos
+
+* [Portada, Créditos, Índice y Editorial](https://drive.google.com/file/d/1y6LrOXCx0mpczVQbWKbR7LfDzGNVhmeA){:target="_blank"}
+
+### Artículos
+
+* [En la cresta de la ondícula](https://drive.google.com/file/d/1ybO9CKSF4LYlq5tJV---OZfYgoAGUGjk){:target="_blank"} - [Sinuhé Perea Puente](mailto:sinuhe.perea@mpikg.mpg.de) y [Yanxue Wang](mailto:y.wang@fz-juelich.de)
+  
+* [Fechas pitagóricas en el siglo XXI](https://drive.google.com/file/d/1SGksCpAIEpVsLPN8to0JyKloAA8RHaSy){:target="_blank"} - [Manuel Muñoz Blázquez](mailto:mmunnozb04@educarex.es) y [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com)
+
+* [Una conjetura cuántica](https://drive.google.com/file/d/13S9QtrEH849nQx2JOkjt0IhyNzIlSYeB){:target="_blank"} - [Ramon Rebull Camarasa](mailto:ramonrebull@hotmail.com)
+
+* [V - A = C + 2: un recorrido por la fórmula de Euler](https://drive.google.com/file/d/1IE-uZDZ1l_vciYrmY8BosN4P65ltdm1a){:target="_blank"} - [Paulo González Ogando](mailto:paulo@paulo.gal)
+
+* [Patrones de Turing que dan forma al mundo vivo](https://drive.google.com/file/d/1ivVi3jJQcI0wzJ4tVWxBnv40RRpGL-K2){:target="_blank"} - [Pilar Guerrero Contreras](mailto:pilar.guerrero@uc3m.es)
+
+* [Las matemáticas del rompecabezas de Sol LeWitt](https://drive.google.com/file/d/10aUxEhNTFyWx9GfW9eMB8EhezH9KgRc8){:target="_blank"} - [Raúl Ibáñez Torres](mailto:raul.ibanez@ehu.eus)
+
+* [Denjoy y sus puntos de continuidad aproximativa](https://drive.google.com/file/d/12gDT5-DV3RnY8cJ__NcrvrIFMlC--WMo){:target="_blank"} - [Éric Dubon](mailto:eric.dubon@ua.es) y [Ángel San Antolín Gil](mailto:angel.sanantolin@ua.es)
+
+* [El legado de María Andresa Casmayor de la Coma: alfabetización matemática y educomunicación](https://drive.google.com/file/d/1bAUIyiamFOl2fOo788I5lwNPoFbc-EpO){:target="_blank"} - [Pilar Laguna Lozano](mailto:plaguna@unizar.es), [Begoña Pérez-Calle](mailto:bperez@unizar.es) y [Raquel Villacampa Gutiérrez](mailto:raquelvg@unizar.es)
+  
+* [Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes](https://drive.google.com/file/d/1PBHGfjIB2t6eVI_JrniJF_wGIxJx_6TG){:target="_blank"} - [Diego Córdoba Gazolaz](mailto:dcg@icmat.es) y [Luis Martínez Zoroa](mailto:luis.martinezzoroa@cunef.edu)
+
+* [Inversión esférica de nudos: el nudo trébol y el nudo ocho](https://drive.google.com/file/d/1JJ8potK3lMAifG6tNnHJO5Nn38EkjJx9){:target="_blank"} - [Juan Carlos Ponce Campuzano](mailto:j.poncecampuzano@griffith.edu.au), [Ivana Carrizo Molina](mailto:n.carrizomolina@uq.edu.au) y [Miguel Ángel Maldonado Aguilar](mailto:mmaldonado@uaz.edu.mx)
+
+### [Problemas](https://drive.google.com/file/d/1lSrnaKUVHEBobYAF-JC-tPAHDp1ef6yt){:target="_blank"}
+
+***
+
+Pulse en el siguiente enlace para descargar la revista completa:
+
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1j8zlIeVMlYjSdlmlNOklfA9yZZnIyJ8J">
+        <img src="{{site.baseurl}}/images/revista_enero_26.jpg" alt="Revista completa enero 2026" width="30%">
+    </a>
+    <p>
+        <a href="https://drive.google.com/file/d/1j8zlIeVMlYjSdlmlNOklfA9yZZnIyJ8J">Revista completa</a>
+    </p>
+</div>
