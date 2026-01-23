@@ -28,7 +28,7 @@ permalink: /volIII_num1/
 
 * [Denjoy y sus puntos de continuidad aproximativa](https://drive.google.com/file/d/12gDT5-DV3RnY8cJ__NcrvrIFMlC--WMo){:target="_blank"} - [Éric Dubon](mailto:eric.dubon@ua.es) y [Ángel San Antolín Gil](mailto:angel.sanantolin@ua.es)
 
-* [El legado de María Andresa Casmayor de la Coma: alfabetización matemática y educomunicación](https://drive.google.com/file/d/1bAUIyiamFOl2fOo788I5lwNPoFbc-EpO){:target="_blank"} - [Pilar Laguna Lozano](mailto:plaguna@unizar.es), [Begoña Pérez-Calle](mailto:bperez@unizar.es) y [Raquel Villacampa Gutiérrez](mailto:raquelvg@unizar.es)
+* [El legado de María Andresa Casmayor de La Coma: alfabetización matemática y educomunicación](https://drive.google.com/file/d/1bAUIyiamFOl2fOo788I5lwNPoFbc-EpO){:target="_blank"} - [Pilar Laguna Lozano](mailto:plaguna@unizar.es), [Begoña Pérez-Calle](mailto:bperez@unizar.es) y [Raquel Villacampa Gutiérrez](mailto:raquelvg@unizar.es)
   
 * [Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes](https://drive.google.com/file/d/1PBHGfjIB2t6eVI_JrniJF_wGIxJx_6TG){:target="_blank"} - [Diego Córdoba Gazolaz](mailto:dcg@icmat.es) y [Luis Martínez Zoroa](mailto:luis.martinezzoroa@cunef.edu)
 
