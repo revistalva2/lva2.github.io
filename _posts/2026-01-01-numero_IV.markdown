@@ -20,7 +20,7 @@ permalink: /volIII_num1/
 
 * [Una conjetura cuántica](https://drive.google.com/file/d/13S9QtrEH849nQx2JOkjt0IhyNzIlSYeB){:target="_blank"} - [Ramon Rebull Camarasa](mailto:ramonrebull@hotmail.com)
 
-* [V - A = C + 2: un recorrido por la fórmula de Euler](https://drive.google.com/file/d/1IE-uZDZ1l_vciYrmY8BosN4P65ltdm1a){:target="_blank"} - [Paulo González Ogando](mailto:paulo@paulo.gal)
+* [V - A + C = 2: un recorrido por la fórmula de Euler](https://drive.google.com/file/d/1IE-uZDZ1l_vciYrmY8BosN4P65ltdm1a){:target="_blank"} - [Paulo González Ogando](mailto:paulo@paulo.gal)
 
 * [Patrones de Turing que dan forma al mundo vivo](https://drive.google.com/file/d/1ivVi3jJQcI0wzJ4tVWxBnv40RRpGL-K2){:target="_blank"} - [Pilar Guerrero Contreras](mailto:pilar.guerrero@uc3m.es)
 
