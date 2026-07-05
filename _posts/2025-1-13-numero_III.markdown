@@ -28,7 +28,7 @@ permalink: /volII_num1/
 
 * [Teorema de caracterización de espacios homogéneos](https://drive.google.com/file/d/149nK5tgznZjwPoA7-TV-zoKtYePxamtE){:target="_blank"} - [Daniel Martín-Cudero](mailto:daniel.mcudero@urjc.es)
 
-* [Inteligencia artificial: desde Alan Turing hasta el ChatGPT](https://drive.google.com/file/d/1vCTxvp_dqJ1ZIlxBmWxOefGv0mTonON7){:target="_blank"} - [Manuel de León](mdeleon@icmat.es)
+* [Inteligencia artificial: desde Alan Turing hasta el ChatGPT](https://drive.google.com/file/d/1vCTxvp_dqJ1ZIlxBmWxOefGv0mTonON7){:target="_blank"} - [Manuel de León](mailto:mdeleon@icmat.es)
 
 ### [Problemas](https://drive.google.com/file/d/1vJeJiDseLtn4C4EtJQryZCXYzQBj4gla){:target="_blank"}
 
