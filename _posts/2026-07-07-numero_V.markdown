@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Volumen III, Número 2"
+date: 2026-07-07 18:00:00 +0100
+image: logo_V.jpg
+permalink: /volIII_num2/
+---
+
+# Volumen III, Número 2 - Julio 2026
+
+### Créditos
+
+* [Portada, Créditos, Índice y Editorial](https://drive.google.com/file/d/1Qx1icTpJTGrBnIWEI0ynPw6xfgiR11H4){:target="_blank"}
+
+### Artículos
+
+* [Lineabilidad:sucesiones y series](https://drive.google.com/file/d/1lUQJq7JC1Ssm2oTdIvN83DMCffWHbMtU){:target="_blank"} - [Francisco Javier Pernía Palma](mailto:franjperniapalma@gmail.com)
+  
+* [El problema de la elección de pareja](https://drive.google.com/file/d/14SBFt6pYfWFV7-GWraGD2pgUqGFgVtf9){:target="_blank"} - [Vicente Muñoz Velázquez](mailto:vicente.munoz@ucm.es)
+
+* [Una integral de &laquo;ensueño&raquo;](https://drive.google.com/file/d/1sZe0KU2oUdM4fwg1fG8SirPZPY-RCFTV){:target="_blank"} - [José Manuel Sánchez Muñoz](mailto:jmanuel.sanchez@gmx.es) y [Pablo Vitoria García](mailto:pvitoria@gmail.com)
+
+* [De un problema de olimpiadas al teorema de Wedderburn](https://drive.google.com/file/d/1AhhUKetdKJrqoapYiPpvytVKAd3jxC0W){:target="_blank"} - [Henry Díaz Bordón](mailto:henrydiazbordon@gmail.com)
+
+* [Demostrando lo indemostrable](https://drive.google.com/file/d/1FOMPmXmUPuczilnADPfekJeuCXruxuPo){:target="_blank"} - [Esteban Martínez Vañó](mailto:estebanmv1994@gmail.com)
+
+* [Jacques Hadamard en España](https://drive.google.com/file/d/17ZBBU6dvfauw03QukhYQ8fH9pa2aauIq){:target="_blank"} - [Pedro J. Miana Sanz](mailto:pjmiana@unizar.es)
+ 
+* [El teorema de clasificación de superficies: una guía ilustrada](https://drive.google.com/file/d/1rKn9mzb0MbKXGvu8l64zCdYfonQaXxz7){:target="_blank"} - [Urtzi Buijs Martín](mailto:ubuijs@uma.es)
+
+* [Medición de la esperanza de vida libre de discapacidad: el método de Sullivan y alternativas metodológicas](https://drive.google.com/file/d/1f5Xh0vxbA5H2slc-dv994Ay8tbm_NQEg){:target="_blank"} - [Rogelio Puyol Rodríguez](mailto:rogeliopujol@gmail.com)
+
+### [Problemas](https://drive.google.com/file/d/1s2U9D37X2di7MNkK4ojz1Fm7yqtYyv0l){:target="_blank"}
+
+***
+
+Pulse en el siguiente enlace para descargar la revista completa:
+
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1vo1KcyQSJh_kYZlPAWWOh4mo7WNg9dGq">
+        <img src="{{site.baseurl}}/images/revista_julio_26.jpg" alt="Revista completa julio 2026" width="30%">
+    </a>
+    <p>
+        <a href="https://drive.google.com/file/d/1vo1KcyQSJh_kYZlPAWWOh4mo7WNg9dGq">Revista completa</a>
+    </p>
+</div>
