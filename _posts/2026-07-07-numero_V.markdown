@@ -14,7 +14,7 @@ permalink: /volIII_num2/
 
 ### Artículos
 
-* [Lineabilidad:sucesiones y series](https://drive.google.com/file/d/1lUQJq7JC1Ssm2oTdIvN83DMCffWHbMtU){:target="_blank"} - [Francisco Javier Pernía Palma](mailto:franjperniapalma@gmail.com)
+* [Lineabilidad: sucesiones y series](https://drive.google.com/file/d/1lUQJq7JC1Ssm2oTdIvN83DMCffWHbMtU){:target="_blank"} - [Francisco Javier Pernía Palma](mailto:franjperniapalma@gmail.com)
   
 * [El problema de la elección de pareja](https://drive.google.com/file/d/14SBFt6pYfWFV7-GWraGD2pgUqGFgVtf9){:target="_blank"} - [Vicente Muñoz Velázquez](mailto:vicente.munoz@ucm.es)
 
