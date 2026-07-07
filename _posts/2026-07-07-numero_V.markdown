@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volumen III, Número 2"
-date: 2026-08-08 18:00:00 +0100
+date: 2026-07-07 18:00:00 +0100
 image: logo_V.jpg
 permalink: /volIII_num2/
 ---
