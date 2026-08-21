@@ -22,7 +22,7 @@ permalink: /ficha_bibliografica/
 
 ### Directores
 
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (IES Griñón, Griñón, Madrid)
+- [José Manuel Sánchez Muñoz](mailto:jmanuel.sanchez#gmx.es) (IES Griñón, Griñón, Madrid)
 - [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (IES Álvarez Cubero, Priego de Córdoba)
 
 ### Directores Sección Problemas
@@ -46,7 +46,7 @@ permalink: /ficha_bibliografica/
 ### Compilación y Maquetación
 
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance, Nava, Asturias)
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (IES Griñón, Griñón, Madrid)
+- [José Manuel Sánchez Muñoz](mailto:jmanuel.sanchez@gmx.es) (IES Griñón, Griñón, Madrid)
 
 ### Comité Editorial
 
