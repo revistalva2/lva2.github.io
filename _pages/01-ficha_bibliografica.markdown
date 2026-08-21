@@ -22,17 +22,17 @@ permalink: /ficha_bibliografica/
 
 ### Directores
 
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
-- [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
+- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (IES Griñón, Griñón, Madrid)
+- [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (IES Álvarez Cubero, Priego de Córdoba)
 
 ### Directores Sección Problemas
 
-- [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
+- [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (IES Bartolomé José Gallardo, Campanario, Badajoz)
 - [Antonio Roberto Martínez Fernández](mailto:antonioroberto.martinez@um.es) (Dpto. de Estadística e Investigación Operativa, Universidad de Murcia)
 
 ### Editor de Estilo
 
-- [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
+- [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (IES Comendador Juan de Távora, Puertollano, Ciudad Real)
 
 ### Desarrollo y Comunicación
 
@@ -46,7 +46,7 @@ permalink: /ficha_bibliografica/
 ### Compilación y Maquetación
 
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance, Nava, Asturias)
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
+- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (IES Griñón, Griñón, Madrid)
 
 ### Comité Editorial
 
@@ -54,14 +54,14 @@ permalink: /ficha_bibliografica/
 - [Juan Luis Castaño Fernández](mailto:juanlcast@gmail.com) (Docente freelance, Nava, Asturias)
 - [David Doblas Jiménez](mailto:david.doblas-jimenez@xfel.eu) (European XFEL GmbH, Schenefeld, Alemania)
 - [Sandra M. Fernández Rodríguez](mailto:sdrafez@gmail.com) (Psicóloga clínica, Madrid)
-- [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (I.E.S. Álvarez Cubero, Priego de Córdoba)
+- [Francisco Javier García Capitán](mailto:garciacapitan@gmail.com) (IES Álvarez Cubero, Priego de Córdoba)
 - [Pablo José Gerlach Mena](mailto:gerlach@us.es) (Dpto. Estadística e Investigación Operativa, Universidad de Sevilla)
-- [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (I.E.S. Rafael Dieste, A Coruña)
+- [Ignacio Larrosa Cañestro](mailto:ilarrosa@mundo-r.com) (IES Rafael Dieste, A Coruña)
 - [Isabel Marín Mata](mailto:isamarin77@hotmail.com) (Escuela de Pensamiento Matemático Miguel de Guzmán, Torrelodones, Madrid)
 - [Antonio Roberto Martínez Fernández](mailto:antonioroberto.martinez@um.es) (Dpto. de Estadística e Investigación Operativa, Universidad de Murcia)
-- [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (I.E.S. Comendador Juan de Távora, Puertollano, Ciudad Real)
-- [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (I.E.S. Bartolomé José Gallardo, Campanario, Badajoz)
-- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (I.E.S. Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
+- [Miguel Ángel Morales Medina](mailto:gaussianos@gmail.com) (IES Comendador Juan de Távora, Puertollano, Ciudad Real)
+- [Miguel Ángel Pérez García-Ortega](mailto:mianpgo@gmail.com) (IES Bartolomé José Gallardo, Campanario, Badajoz)
+- [José Manuel Sánchez Muñoz](mailto:jose.sm@educa.madrid.org) (IES Sor Juana de la Cruz, Cubas de la Sagra, Madrid)
 - [Lorena Segura Abad](mailto:lorena.segura@ua.es) (Dpto. Matemática Aplicada, Escuela Politécnica, Universidad de Alicante)
 - [Pedro Sempere Valdés](mailto:psemper1@xtec.cat) (Institut Joan Oró, Martorell, Barcelona)
-- [Pablo Vitoria García](mailto:pvitoria@gmail.com) (C.E.U. Ikastek, Bilbao, Bizkaia)
+- [Pablo Vitoria García](mailto:pvitoria@gmail.com) (CEU Ikastek, Bilbao, Bizkaia)
