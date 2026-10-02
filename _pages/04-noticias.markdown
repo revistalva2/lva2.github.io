@@ -10,6 +10,7 @@ permalink: /noticias/
 
 
 ##  Lva<sup>2</sup> se presenta en la octava edición de «Libros, mates y mucho más»
+<p style="color: #666; font-size: 0.90rem; margin-top: -10px; margin-bottom: 20px;">📅 12 de Mayo de 2025</p>
 
 El pasado 7 de mayo, la revista «Lva2» o «Elevados» fue presentada en el marco de la octava edición del evento «Libros, mates y mucho más», organizado conjuntamente por la Real Sociedad Matemática Española (RSME) y la Universidad de Nebrija.
 
@@ -47,6 +48,7 @@ En el siguiente enlace puede visualizarse la grabación del evento:
 
 
 ##  Revista Lva<sup>2</sup>, premiada por «Ciencia en Acción»
+<p style="color: #666; font-size: 0.90rem; margin-top: -10px; margin-bottom: 20px;">📅 15 de Enero de 2025</p>
 
 La revista de divulgación matemática «Lva2» o «Elevados», dirigida por el docente y Jefe del Departamento de Matemáticas del IES Sor Juana de la Cruz (Cubas de la Sagra, Madrid) José Manuel Sánchez Muñoz, obtiene el primer premio de la XXV Edición del Certamen «Ciencia en Acción».
 
