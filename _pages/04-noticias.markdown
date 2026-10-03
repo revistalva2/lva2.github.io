@@ -63,7 +63,7 @@ El artículo explicaba que la pregunta fundamental no era simplemente encontrar 
  
 Hoy, nueve meses después, esa cuestión se encuentra en el centro de una auténtica revolución científica. 
  
-El <em>Clay Mathematics Institute</em>, que administra los Problemas del Milenio, ha reconocido la magnitud del momento y ha señalado que el problema de Navier–Stokes <b>parece haber sido resuelto</b>, aunque ha recordado que el proceso de evaluación de una solución y de atribución del premio está deliberadamente diseñado para desarrollarse con calma. 
+El Clay Mathematics Institute, que administra los Problemas del Milenio, ha reconocido la magnitud del momento y ha señalado que el problema de Navier–Stokes <b>parece haber sido resuelto</b>, aunque ha recordado que el proceso de evaluación de una solución y de atribución del premio está deliberadamente diseñado para desarrollarse con calma. 
  
 Es una cautela absolutamente necesaria en matemáticas: una afirmación extraordinaria necesita una demostración extraordinaria, y una demostración de esta naturaleza debe ser examinada por la comunidad matemática. 
  
@@ -141,7 +141,7 @@ En enero escribíamos sobre un problema que llevaba décadas desafiando a las me
  
 Hoy, ese mismo problema ocupa titulares internacionales y ha puesto de manifiesto una combinación que hace apenas unos años habría parecido propia de la ciencia ficción: <b>matemáticos de primer nivel, nuevas ideas sobre singularidades y sistemas de inteligencia artificial capaces de explorar demostraciones matemáticas a una escala inédita</b>. 
  
-El desenlace definitivo todavía tendrá que pasar por el escrutinio de la comunidad matemática. El propio <em>Clay Mathematics Institute</em> ha dejado claro que el proceso de evaluación debe seguir su curso. 
+El desenlace definitivo todavía tendrá que pasar por el escrutinio de la comunidad matemática. El propio Clay Mathematics Institute ha dejado claro que el proceso de evaluación debe seguir su curso. 
  
 Pero hay algo que ya nadie puede discutir: <b>los trabajos de Diego Córdoba y Luis Martínez-Zoroa forman parte de esta historia</b>. 
  
