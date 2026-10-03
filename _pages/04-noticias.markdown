@@ -127,9 +127,7 @@ Desde <b>Lva<sup>2</sup></b>, queremos expresar públicamente una aspiración qu
  
 No nos corresponde a nosotros decidir quién debe recibir una Medalla Fields. Eso corresponde a la comunidad matemática internacional y, en última instancia, a los órganos competentes del premio. 
  
-Pero sí nos corresponde decir algo mucho más sencillo: 
- 
-<b>nos sentiríamos profundamente orgullosos de haber contribuido, aunque sea modestamente, a dar visibilidad a su trabajo antes de que este alcanzara la repercusión internacional que hoy está adquiriendo</b>. 
+Pero sí nos corresponde decir algo mucho más sencillo: <b>nos sentiríamos profundamente orgullosos de haber contribuido, aunque sea modestamente, a dar visibilidad a su trabajo antes de que este alcanzara la repercusión internacional que hoy está adquiriendo</b>. 
  
 Y, si algún día Luis Martínez-Zoroa llegara a recibir la Medalla Fields, nos permitiríamos recordar con una sonrisa que, unos años antes, <b>Lva<sup>2</sup> tuvo el privilegio de publicar su nombre junto al de Diego Córdoba en un artículo de divulgación sobre las singularidades en tres dimensiones</b>. 
 
