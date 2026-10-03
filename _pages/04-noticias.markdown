@@ -18,8 +18,7 @@ Hay momentos en la vida de una publicación en los que uno mira hacia atrás y c
 Para quienes hacemos <b>Lva<sup>2</sup></b>, uno de esos momentos es hoy. 
  
 En enero de 2026 publicábamos en nuestro tercer volumen el artículo <a href="https://drive.google.com/file/d/1PBHGfjIB2t6eVI_JrniJF_wGIxJx_6TG" target="_blank">
-  «Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes»
-</a>, firmado por dos matemáticos españoles cuyo trabajo venía siguiendo desde hacía años la frontera de uno de los grandes problemas abiertos de la matemática contemporánea: <b>Diego Córdoba Gazolaz</b> y <b>Luis Martínez-Zoroa</b>. El artículo, que ocupa las páginas 95–108 de aquel número, explicaba para nuestros lectores la naturaleza de las singularidades en las ecuaciones de Euler y Navier–Stokes y repasaba algunos de los mecanismos que podían conducir a una pérdida de regularidad en tiempo finito. 
+  «Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes»</a>, firmado por dos matemáticos españoles cuyo trabajo venía siguiendo desde hacía años la frontera de uno de los grandes problemas abiertos de la matemática contemporánea: <b>Diego Córdoba Gazolaz</b> y <b>Luis Martínez-Zoroa</b>. El artículo, que ocupa las páginas 95–108 de aquel número, explicaba para nuestros lectores la naturaleza de las singularidades en las ecuaciones de Euler y Navier–Stokes y repasaba algunos de los mecanismos que podían conducir a una pérdida de regularidad en tiempo finito. 
  
 Lo que entonces era para nosotros, sobre todo, un motivo de orgullo editorial, ha adquirido durante las últimas semanas una dimensión que difícilmente podíamos imaginar. 
 
@@ -58,8 +57,7 @@ Porque <b>aquello que en enero quisimos acercar a nuestros lectores hoy forma pa
 </h3>
 
 Cuando decidimos publicar <a href="https://drive.google.com/file/d/1PBHGfjIB2t6eVI_JrniJF_wGIxJx_6TG" target="_blank">
-  «Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes»
-</a>, nuestra intención era fundamentalmente divulgativa: permitir que nuestros lectores comprendieran, de la mano de dos investigadores de primer nivel, por qué las ecuaciones que describen el movimiento de los fluidos constituyen uno de los grandes desafíos matemáticos de nuestro tiempo. 
+  «Singularidades en 3D: el desafío matemático de Euler y Navier-Stokes»</a>, nuestra intención era fundamentalmente divulgativa: permitir que nuestros lectores comprendieran, de la mano de dos investigadores de primer nivel, por qué las ecuaciones que describen el movimiento de los fluidos constituyen uno de los grandes desafíos matemáticos de nuestro tiempo. 
  
 El artículo explicaba que la pregunta fundamental no era simplemente encontrar una solución concreta, sino determinar si las soluciones suaves de las ecuaciones tridimensionales de Navier–Stokes pueden desarrollar una singularidad en tiempo finito. 
  
