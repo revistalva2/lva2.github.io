@@ -89,7 +89,7 @@ La IA está entrando en un territorio que <b>los matemáticos llevan décadas co
   El trabajo de Córdoba y Martínez-Zoroa, en el foco 
 </h3>
 
-El trabajo conjunto de <b>Diego Córdoba</b> y <b>Luis Martínez-Zoroa</b> se sitúa precisamente en el estudio de la formación de singularidades en fluidos incomprensibles. 
+El trabajo conjunto de <b>Diego Córdoba</b> y <b>Luis Martínez-Zoroa</b> se sitúa precisamente en el estudio de la formación de singularidades en fluidos incompresibles. 
  
 Córdoba, investigador del Instituto de Ciencias Matemáticas, ha desarrollado durante años una destacada trayectoria en el estudio matemático de la mecánica de fluidos. Martínez-Zoroa, discípulo doctoral de Córdoba y actualmente <em>Assistant Professor</em> en CUNEF Universidad, centra su investigación en dinámica de fluidos y formación de singularidades. 
  
